@@ -1,8 +1,8 @@
-# ch04-sql-assignment
-Solutions for CH04 SQL Essentials for Data Engineering Project Assignment using PostgreSQL
-## 🗄️ Complete SQL Assignment: From Basic Queries to Advanced Database Design
+# data-eng-sql-fundamentals
+Solutions for Essentials for Data Engineering Project using PostgreSQL
+## 🗄️ Complete SQL Essentials: From Basic Queries to Advanced Database Design
 
-A comprehensive guide covering core SQL concepts, advanced techniques, query optimization, and database modeling with practical examples.
+A comprehensive guide covering core SQL concepts, advanced techniques, query optimization and database modeling with practical examples.
 
 ---
 
